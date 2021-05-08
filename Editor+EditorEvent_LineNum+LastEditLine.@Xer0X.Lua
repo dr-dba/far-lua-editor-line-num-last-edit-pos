@@ -15,6 +15,8 @@ if true then return end --]]
 https://forum.farmanager.com/viewtopic.php?f=15&t=12119
 https://github.com/dr-dba/far-lua-editor-line-num-last-edit-pos/
 
+DEPENDS ON:
+https://github.com/dr-dba/far-lua-general-utils
 --]]
 
 require("Lib-Common-@Xer0X")
