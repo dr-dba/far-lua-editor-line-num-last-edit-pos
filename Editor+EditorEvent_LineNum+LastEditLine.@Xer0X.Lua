@@ -1,4 +1,4 @@
-﻿--[[
+--[[
 if true then return end --]]
 
 --[[
@@ -11,7 +11,13 @@ if true then return end --]]
 
 	We need Always-on-Top dialogs!
 	and editor resizing + moving as well.
+
+https://forum.farmanager.com/viewtopic.php?f=15&t=12119
+https://github.com/dr-dba/far-lua-editor-line-num-last-edit-pos/
+
 --]]
+
+require("Lib-Common-@Xer0X")
 
 local FIXED_WIDTH = false -- fixed width, by the max of the all file
 
